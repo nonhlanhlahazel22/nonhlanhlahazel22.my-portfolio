@@ -111,13 +111,15 @@ I configured GitHub Pages and published my repository as a live website.
 ### 📸 Evidence
 Team charter for **Pretoria Prime Recycling**, our door-to-door recycling service for Silver Lakes, Pretoria.
 
-![Agile Team Charter page 1](images/charter-1.png)
+![Agile Team Charter page 1](charter-1.png)
 
-![Agile Team Charter page 2](images/charter-2.png)
+![Agile Team Charter page 2](charter-2.png)
 
-![Agile Team Charter page 3](images/charter-3.png)
+![Agile Team Charter page 3](charter-3.png)
 
-![Agile Team Charter page 4](images/charter-4.png)
+![Agile Team Charter page 4](charter-4.png)
+
+![Agile Team Charter page 5](charter-5.png)
 
 ### 📝 Reflection on the Agile Team Charter (STAR Method)
 
@@ -132,5 +134,3 @@ We defined our mission and success measures, assigned roles (Product Owner, Agil
 
 **Result**
 ✅ We now have a clear social contract that reduces confusion and keeps everyone accountable. I learned that a charter is a living document, and it helped me build my facilitation and team-coordination skills as Agile Lead.
-
-
