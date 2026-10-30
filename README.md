@@ -163,3 +163,36 @@ We wrote each story in the format "As a [user], I want [goal], so that [benefit]
 
 **Result**
 ✅ The team had a clear, shared understanding of what to deliver and what "done" looks like. I learned that thinking from the customer's side keeps work focused, and that small tasks make progress easier to track.
+
+---
+
+## 📋 Product Backlog
+
+### 📸 Evidence
+Product backlog for **Pretoria Prime Recycling** on Trello: 22 prioritised work items, labelled by priority and sprint.
+
+![Product Backlog 1](Product-Backlog-1.png)
+
+![Product Backlog 2](Product-Backlog-2.png)
+
+![Product Backlog 3](Product-Backlog-3.png)
+
+![Product Backlog 4](Product-Backlog-4.png)
+
+![Product Backlog 5](Product-Backlog-5.png)
+
+![Product Backlog 6](Product-Backlog-6.png)
+
+### 📝 Reflection on the Product Backlog (STAR Method)
+
+**Situation**
+Pretoria Prime Recycling had many features and activities to deliver, from the app foundation to market research, business planning and the pilot launch. Our team needed one place that showed all the work and what mattered most.
+
+**Task**
+Our task was to build a product backlog on Trello that listed every required item and ranked them by priority, so the team knew what to work on first.
+
+**Action**
+We created a Product Backlog list of 22 cards, grouped by sprint. Each card has a priority label (High, Medium or Low), a sprint label, a checklist of tasks and assigned team members. As Agile Lead, I helped keep the board organised so the team could see what was next.
+
+**Result**
+✅ The whole team could see all the work and its priority in one place. I learned that a backlog needs regular updating to stay useful, and that clear labels make planning sprints much easier.
