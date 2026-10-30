@@ -202,11 +202,7 @@ We created a Product Backlog list of 22 cards, grouped by sprint. Each card has 
 ## 🏃 Sprint Backlog
 
 ### 📸 Evidence
-Sprint backlog for **Pretoria Prime Recycling** on Trello. Sprint work is tracked in the **In Progress** list and the **Completed Sprint Backlog** list, with sprint dates, task checklists and assigned team members.
-
-**In Progress**
-
-![Sprint Backlog In Progress](Sprint-Backlog-1.png)
+Sprint backlog for **Pretoria Prime Recycling** on Trello. Sprint work is tracked in the **Completed Sprint Backlog** list, with sprint dates, task checklists and assigned team members.
 
 **Completed Sprint Backlog**
 
@@ -234,4 +230,4 @@ Our task was to select work from the product backlog for each sprint, break it i
 For each sprint, we took cards from the product backlog, gave them dates and checklists of tasks, and assigned team members. We tracked them in the In Progress list and moved a card to Completed Sprint Backlog once its work was done. As Agile Lead, I monitored progress on the board and raised blockers early, as our charter requires.
 
 **Result**
-✅ Completed sprint cards show fully ticked checklists (5/5) with sprint dates, and the In Progress list shows what the team is working on now. I learned that small, dated sprint goals make progress visible, and that a board only helps if it is kept up to date at the end of every sprint.
+✅ Completed sprint cards show fully ticked checklists (5/5) with sprint dates. I learned that small, dated sprint goals make progress visible, and that a board only helps if it is kept up to date at the end of every sprint.
