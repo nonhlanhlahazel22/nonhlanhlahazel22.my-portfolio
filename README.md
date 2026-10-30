@@ -148,6 +148,8 @@ User stories for **Pretoria Prime Recycling**, written from the customer's persp
 
 ![User Stories 3](User-Stories%20and%20Task-3.png)
 
+![User Stories 4](User-Stories%20and%20Task-4.png)
+
 ### 📝 Reflection on User Stories and Tasks (STAR Method)
 
 **Situation**
