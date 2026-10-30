@@ -134,3 +134,30 @@ We defined our mission and success measures, assigned roles (Product Owner, Agil
 
 **Result**
 ✅ We now have a clear social contract that reduces confusion and keeps everyone accountable. I learned that a charter is a living document, and it helped me build my facilitation and team-coordination skills as Agile Lead.
+
+---
+
+## 📖 User Stories and Tasks
+
+### 📸 Evidence
+User stories for **Pretoria Prime Recycling**, written from the customer's perspective, with acceptance criteria and tasks.
+
+![User Stories 1](User-Stories-1.png)
+
+![User Stories 2](User-Stories%20and%20Task-2.png)
+
+![User Stories 3](User-Stories%20and%20Task-3.png)
+
+### 📝 Reflection on User Stories and Tasks (STAR Method)
+
+**Situation**
+Pretoria Prime Recycling needed its app features described clearly so every team member understood what to build for our Silver Lakes customers.
+
+**Task**
+Our task was to write user stories from the customer's point of view and break each one into smaller tasks the team could assign and complete.
+
+**Action**
+We wrote each story in the format "As a [user], I want [goal], so that [benefit]". We added acceptance criteria to each story, as our charter requires, and split every story into checklist tasks on Trello, such as building the sign-up form UI and the dashboard layout.
+
+**Result**
+✅ The team had a clear, shared understanding of what to deliver and what "done" looks like. I learned that thinking from the customer's side keeps work focused, and that small tasks make progress easier to track.
