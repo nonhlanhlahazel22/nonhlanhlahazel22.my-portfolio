@@ -231,3 +231,30 @@ For each sprint, we took cards from the product backlog, gave them dates and che
 
 **Result**
 ✅ Completed sprint cards show fully ticked checklists (5/5) with sprint dates. I learned that small, dated sprint goals make progress visible, and that a board only helps if it is kept up to date at the end of every sprint.
+
+---
+
+## 📓 Agile Logbook
+
+### 📸 Evidence
+Agile logbook for **Pretoria Prime Recycling**, showing the taskboard, the team walkthrough and my daily stand-up entries for the week of 13 July to 17 July 2026.
+
+![Agile Logbook page 1](Agile-Logbook-1.png)
+
+![Agile Logbook page 2](Agile-Logbook-2.png)
+
+![Agile Logbook page 2](Agile-Logbook-3.png)
+
+### 📝 Reflection on the Agile Logbook (STAR Method)
+
+**Situation**
+Our team of four was running Pretoria Prime Recycling in sprints, and we needed a simple record of what each of us was doing every day so that progress and problems stayed visible.
+
+**Task**
+My task was to complete the Agile Logbook by recording the taskboard, the walkthrough questions and a daily stand-up for each day of the week.
+
+**Action**
+I recorded where our work sat on the board (Product Backlog, In Progress and Completed). I answered the walkthrough questions about advancing work, working off the board, finishing as a team and blockers. Each day I wrote what I completed, what I planned to do next, and any impediments. I linked each entry to our Sprint 1 cards on Trello, such as Concept Validation and Foundation, Project Initiation and Requirements Gathering.
+
+**Result**
+✅ The logbook gives a clear daily record of our progress and plans, and it matches our Trello board. I learned that short daily stand-ups keep the team aligned and make blockers easy to spot early, and that a logbook only helps if it is updated every day.
